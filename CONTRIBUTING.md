@@ -6,7 +6,7 @@ contributing guidelines.
 Fork and clone the repo:
 
 ```
-$ git clone git@github.com:your-username/til.git
+$ git clone git@github.com:your-username/til-collective.git
 ```
 
 Add your TIL:
