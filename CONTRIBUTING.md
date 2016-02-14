@@ -26,4 +26,6 @@ Submit your change:
 We will review your submission as soon as we can. If everything looks good
 and no further changes are required, we will merge in the pull request.
 
+*Note: please include only one TIL per pull request*
+
 Thanks for considering contributing!
